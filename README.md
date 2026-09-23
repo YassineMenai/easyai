@@ -1,1 +1,1 @@
-| [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YassineMenai/easyai_z_image_turbo.ipynb) | Z-Image Turbo |
+| [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//YassineMenai/easyai/blob/8e9da1c8f5f68fe5f5e620e6ff758ef9f5136366/easyai_z_image_turbo.ipynb) | Z-Image Turbo |
